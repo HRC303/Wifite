@@ -1,13 +1,23 @@
 #!/usr/bin/python
+clear
+toilet -f future "WIFITE-MR.XXII" -F gay
+echo "
+         +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+- -+-+-+-+-+
+         |M|e|t|a|s|p|l|o|i|t| |B|y| |M||r| |X|X||I|I|
+         +-+-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+- -+-+-+-+-+
+              +-+-+- +- +-+-+-+-+-+-+-+ -+-+-+-+-
+            ♥ |T|E|A|M| |Z|O|N|A|R|E|D| |X|X|I|I| ♥
+              +-+-+- +- +-+-+-+-+-+-+-+ -+-+-+-+-
+"
 
 # -*- coding: utf-8 -*-
 
 """
-    wifite
+    WIFITE-XXII
 
-    author: derv82 at gmail
-    author: bwall @botnet_hunter (ballastsec@gmail.com)
-    author: drone @dronesec (ballastsec@gmail.com)
+    author: Mr.XXII
+    author: Team Zonared XXII
+    author: Security Hacker Commander
 
     Thanks to everyone that contributed to this project.
     If you helped in the past and want your name here, shoot me an email
@@ -15,9 +25,9 @@
     Licensed under the GNU General Public License Version 2 (GNU GPL v2),
         available at: http://www.gnu.org/licenses/gpl-2.0.txt
 
-    (C) 2011 Derv Merkler
+    (C) 2021 Team ZonaRed XXII
 
-    Ballast Security additions
+    Security Hacker Commander
     -----------------
      - No longer requires to be root to run -cracked
      - cracked.txt changed to cracked.csv and stored in csv format(easier to read, no \x00s)
