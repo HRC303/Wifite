@@ -29,8 +29,8 @@ To download and execute wifite, run the commands below:
 
 $ git clone https://github.com/zonaredXXII/WIFITE-XXII.git
 $ cd WIFITE-XXII
-$ chmod +x WIFITE-XXII.py 
-$./WIFITE-XXII.py
+$ chmod +x WIFI-XXII.py 
+$./WIFI-XXII.py
 
 
 Required Programs
