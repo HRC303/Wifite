@@ -31,6 +31,7 @@ $ git clone https://github.com/zonaredXXII/WIFITE-XXII.git
 $ cd WIFITE-XXII
 $ chmod +x WIFI-XXII.py 
 $./WIFI-XXII.py
+$ python2 WIFI-XXII.py
 
 
 Required Programs
