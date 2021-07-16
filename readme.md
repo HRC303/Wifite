@@ -27,9 +27,10 @@ Execution
 
 To download and execute wifite, run the commands below:
 
-`wget https://raw.github.com/derv82/wifite/master/wifite.py`  
-`chmod +x wifite.py`  
-`./wifite.py`  
+$ git clone https://github.com/zonaredXXII/WIFITE-XXII.git
+$ cd WIFITE-XXII
+$ chmod +x WIFITE-XXII.py 
+$./WIFITE-XXII.py
 
 
 Required Programs
